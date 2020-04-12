@@ -1,9 +1,9 @@
 ---
 layout: category-group
-title: Contract
+title: Tech Gigs
 category-group: true
-summary: Software Developer Contract here!
-id: contract
+summary: Software Developer Gig!
+id: tech
 ---
 
 # Contract
