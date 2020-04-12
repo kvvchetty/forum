@@ -23,3 +23,5 @@ disqus_shortname: kvtechforum
 
 # The public key for your disqus application
 disqus_publickey: oo8lA472iDFXq0t4w1XyRdS2jPFKpPoYsZ7UdsaodHVKDbc4OR5wcsUdDX4MlaT3
+
+theme: jekyll-theme-cayman
